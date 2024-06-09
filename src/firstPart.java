@@ -4,22 +4,20 @@ import java.util.Scanner;
 
 public class firstPart {
     public static void main(String[] args) {
-        /* task 1
+        /*
+        // task 1
         System.out.println("Hello, World.");
         System.out.println("Hello, Java.");
-         */
         //Task 2
         // In this challenge, you must read integers from stdin and then print them to stdout.
         // Each integer must be printed on a new line. To make the problem a little easier,
         // a portion of the code is provided for you in the editor below.
-        /*
         Scanner sc = new Scanner(System.in);
         while (sc.hasNext()) {
             int myInt = sc.nextInt();
             System.out.println(myInt);
         }
         sc.close();
-        */
         //Task 3
         //Given an integer, perform the following conditional actions:
         //If int is odd, print Weird
@@ -52,5 +50,6 @@ public class firstPart {
         System.out.println("Double: " + newDouble);
         System.out.println("Int: " + number);
         sc.close();
+         */
     }
 }
